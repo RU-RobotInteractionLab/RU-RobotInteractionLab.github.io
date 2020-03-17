@@ -16,6 +16,10 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 ---
 
+### Configure Just the Docs
+
+- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+
 ## Getting started
 
 
