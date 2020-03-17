@@ -6,7 +6,6 @@ nav_order: 10
 ---
 
 # Lab Docs
-
   - Setup
   - Software
   - Experiments
