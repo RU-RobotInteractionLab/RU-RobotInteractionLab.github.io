@@ -23,8 +23,8 @@ description: "Repos"
     *   [LabelingTool](https://github.com/RU-RobotInteractionLab/LabelingTool)
 *   maskrcnn [maskrcnn](https://github.com/RU-RobotInteractionLab/maskrcnn)
     *   er á eymar13 i maskrcnn\_conda foldernum
-*   yolov3 [yolov3-tf2](https://github.com/RU-RobotInteractionLab/yolov3-tf2)
-*   sd maskrcnn
+*   YOLOV3 [yolov3-tf2](https://github.com/RU-RobotInteractionLab/yolov3-tf2)
+*   SD-Mask-RCNN
     *   [sdmaskrcnn](https://github.com/RU-RobotInteractionLab/sdmaskrcnn)
     *   Virkar med NDDS og dataset\_tools scripts.
 
